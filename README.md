@@ -1,5 +1,3 @@
-# ITECH1502-KC7-Cybersecurity-Portfolio
-This is for the final assignment of ITECH1502
 
 # KC7 Phishing and Account Compromise Investigation
 
@@ -89,9 +87,9 @@ The activity also demonstrated how public information, weak recovery questions a
 
 ## Portfolio Files
 
-- [Final Project Report](ITECH1502_KC7_Report_Connor_Reid.pdf)
-- [Project Presentation](ITECH1502_KC7_Presentation_Connor_Reid.pptx)
-
+- [Final Project Report](https://github.com/Tigwobbly/ITECH1502-KC7-Cybersecurity-Portfolio/blob/main/ITECH%201502%20REPORT%20CONNOR%20REID%20-%2030347026%20WITH%20FIGURES.pdf)
+- [Project Presentation](https://github.com/Tigwobbly/ITECH1502-KC7-Cybersecurity-Portfolio/blob/main/ppt1.pptx)
+- [Screenshot Evidence](https://github.com/Tigwobbly/ITECH1502-KC7-Cybersecurity-Portfolio/blob/main/screenshot%20evidence.pdf)
 ## Ethical and Legal Scope
 
 This investigation was completed entirely within the authorised KC7 Cyber training environment. OWL Records, its employees and the investigated activity are part of a simulated cybersecurity scenario. No real systems or accounts were accessed.
